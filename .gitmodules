@@ -1,0 +1,9 @@
+[submodule "gitops-argocd"]
+	path = gitops-argocd
+	url = https://github.com/badaltechiepi/gitops-argocd.git
+[submodule "dependency"]
+	path = dependency
+	url = https://github.com/badaltechiepi/dependency-tracker.git
+[submodule "istio"]
+	path = istio
+	url = https://github.com/badaltechiepi/istio.git
